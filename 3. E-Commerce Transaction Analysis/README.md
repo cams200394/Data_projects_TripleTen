@@ -18,12 +18,13 @@ Initial Retention Decline: The highest retention rates are observed in the first
 Data Description:
 The dataset contains detailed records of user interactions with products, capturing various types of activities, product details, brands, prices, and the dates of those activities:
 
-user_id: Unique identifiers for each customer, essential for tracking individual activities and analyzing specific behaviors.
-event_type: Type of activity performed by the user, such as viewing a product, adding it to the cart, or making a purchase, allowing for an understanding of the stages in the conversion funnel.
-category_code: Category of the product being interacted with, facilitating analysis of performance by product category.
-brand: Brand or manufacturer of the product, providing insights into users’ brand preferences.
-price: Price of the product in USD, which is critical for analyzing conversions based on different price ranges.
-event_date: Date of the user activity, formatted as YYYY-MM-DD, enabling temporal analysis of user behavior trends.
+- user_id: Unique identifiers for each customer, essential for tracking individual activities and analyzing specific behaviors.
+- event_type: Type of activity performed by the user, such as viewing a product, adding it to the cart, or making a purchase, allowing for an understanding of the stages in the conversion funnel.
+- category_code: Category of the product being interacted with, facilitating analysis of performance by product category.
+- brand: Brand or manufacturer of the product, providing insights into users’ brand preferences.
+- price: Price of the product in USD, which is critical for analyzing conversions based on different price ranges.
+- event_date: Date of the user activity, formatted as YYYY-MM-DD, enabling temporal analysis of user behavior trends.
+- 
 This dataset is foundational for analyzing user behavior, product performance, and conversion metrics, providing the basis for informed strategic decisions.
 
 
