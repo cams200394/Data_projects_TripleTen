@@ -1,4 +1,4 @@
-Executive Summary
+**Executive Summary**
 
 Conversion Rates:
 Shopping Cart to Purchase (36%): The 36% conversion rate indicates that once users add items to their cart, they are very likely to complete the purchase. This suggests that the checkout process is effective and user-friendly.
