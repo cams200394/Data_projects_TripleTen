@@ -6,15 +6,15 @@ This project focuses on analyzing the vacation rental market in the Manhattan bo
 
 Key Objectives
 
--Analyze the Manhattan vacation rental market to uncover trends and patterns.
--Identify property types and locations with the highest potential for investment.
--Provide data-driven recommendations to guide the client’s investment strategy.
+- Analyze the Manhattan vacation rental market to uncover trends and patterns.
+- Identify property types and locations with the highest potential for investment.
+- Provide data-driven recommendations to guide the client’s investment strategy.
 
 Data
 The analysis is based on Airbnb listings data for Manhattan, NYC. This dataset includes various attributes such as property type, location, pricing, availability, and customer ratings.
 
 Deliverables
 
--Comprehensive data analysis and visualizations.
--A report summarizing key insights and recommendations for property investments.
--Suggestions on property types and locations that offer the best investment potential.
+- Comprehensive data analysis and visualizations.
+- A report summarizing key insights and recommendations for property investments.
+- Suggestions on property types and locations that offer the best investment potential.
