@@ -1,5 +1,5 @@
 
-**EXECUTIVE SUMMARY**
+**Analyzing the Vacation Rental Market in Manhattan, NYC**
 
 The client is interested in investing in several properties and seeks guidance on the types of properties to target. Based on an analysis of vacation rental reviews and occupancy rates, the following recommendations and insights are provided to guide the investment strategy.
 
