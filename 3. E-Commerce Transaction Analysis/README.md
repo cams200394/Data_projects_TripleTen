@@ -24,7 +24,7 @@ The dataset contains detailed records of user interactions with products, captur
 - brand: Brand or manufacturer of the product, providing insights into users’ brand preferences.
 - price: Price of the product in USD, which is critical for analyzing conversions based on different price ranges.
 - event_date: Date of the user activity, formatted as YYYY-MM-DD, enabling temporal analysis of user behavior trends.
-- 
+  
 This dataset is foundational for analyzing user behavior, product performance, and conversion metrics, providing the basis for informed strategic decisions.
 
 
