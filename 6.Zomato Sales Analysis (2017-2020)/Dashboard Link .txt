@@ -1,0 +1,13 @@
+Hello!
+
+Zomato Sales Analysis Report in India (2018-2020)
+
+I conducted an analysis of Zomato's sales in India from 2018 to 2020 to identify key trends and insights.
+
+You can view the interactive dashboard here:
+🔗 https://public.tableau.com/app/profile/camilo.moreno5004/viz/SalesAnalysis_17261558562550/SalesAnalysis?publish=yes
+
+
+Sales Analysis
+
+Thank you!
